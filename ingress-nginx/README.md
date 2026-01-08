@@ -23,7 +23,7 @@ helm install ingress-nginx ./ingress-nginx \
 helm install ingress-nginx ingress-nginx/ingress-nginx --version 4.14.1 -n infra-ingress-nginx
 ```
 
-## Output
+## Result
 
 ```shell
 NAME: ingress-nginx
